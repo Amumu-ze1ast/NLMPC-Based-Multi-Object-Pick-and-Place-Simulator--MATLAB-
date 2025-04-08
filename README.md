@@ -1,6 +1,6 @@
 # Multi-Part Multi-Location Pick-and-Place Simulation Using NLMPC (MATLAB)
 
-This repository contains a MATLAB-based simulation for a **multi-part, multi-location pick-and-place robotic system** controlled using **Nonlinear Model Predictive Control (NLMPC)**. The simulation demonstrates how a **single robotic arm** can efficiently and accurately handle multiple objects from various source locations and deliver them to distinct target positions in a **single operational cycle**.
+This repository contains a MATLAB-based simulation for a **Single-part Pick-and-Place** and a **multi-part, multi-location pick-and-place robotic system** controlled using **Nonlinear Model Predictive Control (NLMPC)**. The simulation demonstrates how a **single robotic arm** can efficiently and accurately handle multiple objects from various source locations and deliver them to distinct target positions in a **single operational cycle**.
 
 The NLMPC framework integrates:
 - Real-time path optimization
